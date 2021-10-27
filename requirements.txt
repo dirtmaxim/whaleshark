@@ -1,0 +1,8 @@
+opencv-python~=4.5.3.56
+segmentation_models~=1.0.1
+numpy~=1.18.5
+imageio~=2.8.0
+tqdm~=4.46.0
+matplotlib~=3.2.1
+scikit-learn~=0.23.1
+albumentations~=1.1.0
